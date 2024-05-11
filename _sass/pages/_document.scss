@@ -84,6 +84,8 @@
     }
 
     .button {
+        margin-top:5px;
+        margin-bottom:5px;
 
         &:hover,
         &:active {
@@ -110,6 +112,10 @@
         &__image {
             margin: auto auto;
             display: block;
+
+            &--full-width {
+                width: 100%;
+            }
         }
 
         &__caption {
