@@ -9,13 +9,13 @@ go-back: "/southside/"
 # Household trash, recycling, and yard waste
 The City of Columbus collects trash once a week. Rumpke also collects recycling once a week, and yard waste every two weeks. 
 
-<a href="https://new.columbus.gov/Services/Trash-Recycling-Bulk-Collection/Find-My-Collection-Day" class="stuff__button button"><i class="fas fa-calendar fa-fw button__icon button__icon--left"></i> Collection day lookup</a>
-<a href="https://new.columbus.gov/Services/Trash-Recycling-Bulk-Collection" class="stuff__button button button--lights"><i class="fas fa-recycle fa-fw button__icon button__icon--left"></i> More information on City website</a>
+<a href="https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection/Find-My-Collection-Day" class="stuff__button button"><i class="fas fa-calendar fa-fw button__icon button__icon--left"></i> Collection day lookup</a>
+<a href="https://www.columbus.gov/Services/Trash-Recycling-Bulk-Collection" class="stuff__button button button--lights"><i class="fas fa-recycle fa-fw button__icon button__icon--left"></i> More information on City website</a>
 
 ## 300 gallon to 90 gallon conversion
 Currently many areas of the South Side are serviced by shared 300 gallon containers in the alley. The City of Columbus is planning to convert all existing shared 300 gallon containers to individual 90 gallon container collection by the end of 2024.
 
-<a href="https://new.columbus.gov/files/sharedassets/city/v/1/services/trash-recycling-amp-bulk-collection/conversion-dates-for-2023-and-2024-website-pdf.pdf" class="button stuff__button"><i class="fas fa-calendar fa-fw button__icon button__icon--left"></i> Planned conversion schedule</a>
+<a href="https://www.columbus.gov/files/sharedassets/city/v/1/public-service/trash-recycling-amp-bulk-collection/conversion-dates-for-2023-and-2024-website-pdf.pdf" class="button stuff__button"><i class="fas fa-calendar fa-fw button__icon button__icon--left"></i> Planned conversion schedule</a>
 
 # Litter
 During July 2023, refuse collection employees completed litter indexing while navigating their normal routes. Indexing is broken down into four scores:
