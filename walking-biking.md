@@ -5,9 +5,11 @@ go-back: "/southside/"
 ---
 
 # Sidewalk Gaps
-Progress has been made in recent years on closing sidewalk gaps on the South Side, with new sidewalks constructed along Ann Street and Deshler Avenue. However, there are still many streets with missing sidewalks, especially in the neighborhoods east of Parsons Avenue. Note, the map linked below is based on 2019 data and does not include the entirety of the area commission's boundaries.
+Progress has been made in recent years on closing sidewalk gaps on the South Side, with new sidewalks constructed along Ann Street and Deshler Avenue. However, there are still many streets with missing sidewalks, especially in the neighborhoods east of Parsons Avenue. The map linked below is an inventory of sidewalks throughout Central Ohio, including on the South Side.
 
-<a href="https://files.soltesz.xyz/southside/S%20Columbus%20Inventory_sidewalk_v3.pdf" class="stuff__button button"><i class="fas fa-map fa-fw button__icon button__icon--left"></i> Map of South Side Sidewalks  <span class="stuff__link-type">PDF file</span></a>
+<a href="https://public-morpc.hub.arcgis.com/items/bd68fafaaf574d8a9ebc65e86938fa41" class="stuff__button button"><i class="fas fa-map fa-fw button__icon button__icon--left"></i> Map of Central Ohio Sidewalks</a>
+
+<a href="https://public-morpc.hub.arcgis.com/items/bd68fafaaf574d8a9ebc65e86938fa41"><img src="https://files.soltesz.xyz/southside/southsidesidewalks.png" alt="Map of sidewalks and sidewalk gaps on the South Side of Columbus" class="page-figure__image"></a>
 
 # Crosswalk Inventory
 <div class="map-container">
