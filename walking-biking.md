@@ -23,7 +23,7 @@ The map above shows locations of the following within the South Side and surroun
 - Marked crosswalks at uncontrolled crossing locations (a pedestrian crossing that does not include a traffic signal, beacon, or STOP sign to require that motor vehicles stop before entering the crosswalk)
 - Crosswalks where enhancements are planned
 
-The map also shows the [Vision Zero Columbus](https://vision-zero-columbus.hub.arcgis.com/) High Injury Network, which are roadways where an especially high number of crashes occur that result in serious injuries or fatalities. 
+The map also shows the [Vision Zero Columbus](https://vision-zero-columbus.hub.arcgis.com/) High Injury Network, which are roadways where an especially high number of crashes occur that result in serious injuries or fatalities, as well as roadways with speed limits of 35 mph or greater, which are more dangerous for people walking.
 
 Clicking on a location will provide more information about the treatments at that crosswalk.
 
