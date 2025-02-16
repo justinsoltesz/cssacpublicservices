@@ -17,17 +17,22 @@ go-back: "/southside/"
 # Parks Improvements 
 In 2019, the Public Services Committee visited every park on the South Side and made a list of maintenance needs as well as recommended improvements. Since then, the Columbus Recreation and Parks Department (CRPD) has worked to address the issues and make improvements. 
 
-*This section is a work in progress...more information to come*
+The Public Services Committee plans to visit every park on the South Side again this spring to identify maintenance needs and make suggestions for improvements. More information to come.
 
-## Planned Improvements
-### Fairwood Park
-Funds for design of lighting improvements at Fairwood Park were included in the City's 2023 capital budget.
+## Upcoming Improvements
+*Updates as of 2/16/2025*
+
+### Fairwood Park Lighting
+This will include lighting the park drive and the walking loop at the rear of the park. Construction will occur this year (2025) and is expected to be complete no later than October.
+ 
+### Karns Park Playground Replacement
+The playground replacement is currently in design with a package of other playgrounds going through design and permitting. Construction is expected to begin Fall 2025.
 
 ### Lincoln Park
-Funds for the design of a multipurpose sport court (tennis/pickleball), stormwater improvements, and parking lot imporvements were included in the City's 2023 capital budget.
+Improvements include the addition of new walking path around the eastern greenspace, lighting around entire walking path, addition of new hard surface futsal/multipurpose court behind community center, and drainage improvements. This project is currently in design, with design expected to be completed around August of 2025, with construction to follow with an expected completion date of Fall 2026.
 
 ### Deshler Park
-Funds for the design of a new shelter at Deshler Park are included in the 5-year capital plan.
+Design of a new shelter at Deshler Park is expected to begin later in 2025, with construction currently expected in 2027.
 
 ## Completed Improvements
 ### Millbrook Park
