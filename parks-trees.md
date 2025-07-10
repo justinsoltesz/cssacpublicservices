@@ -5,9 +5,35 @@ go-back: "/southside/"
 ---
 <div class="jump-to">
     <span class="jump-to__prompt">Jump to:</span>
+    <a href="#south-side-parks" class="jump-to__link">South Side Parks</a>
     <a href="#parks-improvements" class="jump-to__link">Parks Improvements</a>
     <a href="#street-trees" class="jump-to__link">Street Trees</a>
 </div>
+
+# South Side Parks Inventory
+Over the course of July, we will meet at each of the parks on the South Side on the dates below to identify maintenance needs and discuss improvements we would like to request. This information will be provided to the Columbus Recreation and Parks Department, who will then attend our September 10 committee meeting to discuss.
+
+If you are unable to attend, but would like to provide input for a specific park, please send to [justin.soltesz+cssac@gmail.com](mailto:justin.soltesz+cssac@gmail.com) prior to the meeting date for that park so the group can discuss.
+
+The district each park is in is noted in parentheses. Parks are grouped together based on proximity. We will start at the first park listed on each day. All are welcome to attend.
+
+## Saturday, July 19 - 9-11am
+- Kobacker (2)
+- Martin (2)
+- Karns (4)
+- Lincoln (6)
+ 
+## Tuesday, July 22 - 6-8pm
+- Moeller (3)
+- Southwood (3)
+- South Side Heritage (8)
+- Southeast Lions (8)
+ 
+## Saturday, July 26 - 9-11am
+- Deshler (5)
+- Fairwood (5)
+- Smith Road (7)
+- Millbrook (5)
 
 # South Side Parks
 <div class="map-container">
@@ -16,8 +42,6 @@ go-back: "/southside/"
 
 # Parks Improvements 
 In 2019, the Public Services Committee visited every park on the South Side and made a list of maintenance needs as well as recommended improvements. Since then, the Columbus Recreation and Parks Department (CRPD) has worked to address the issues and make improvements. 
-
-The Public Services Committee plans to visit every park on the South Side again this spring to identify maintenance needs and make suggestions for improvements. More information to come.
 
 ## Upcoming Improvements
 *Updates as of 2/16/2025*
