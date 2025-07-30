@@ -11,29 +11,9 @@ go-back: "/southside/"
 </div>
 
 # South Side Parks Inventory
-Over the course of July, we will meet at each of the parks on the South Side on the dates below to identify maintenance needs and discuss improvements we would like to request. This information will be provided to the Columbus Recreation and Parks Department, who will then attend our September 10 committee meeting to discuss.
+Over the course of July, the Public Services Committee met at each of the 12 parks on the South Side to identify maintenance needs and discuss potential improvements to request.
 
-If you are unable to attend, but would like to provide input for a specific park, please send to [justin.soltesz+cssac@gmail.com](mailto:justin.soltesz+cssac@gmail.com) prior to the meeting date for that park so the group can discuss.
-
-The district each park is in is noted in parentheses. Parks are grouped together based on proximity. We will start at the first park listed on each day. All are welcome to attend.
-
-## Saturday, July 19 - 9-11am
-- Kobacker (2)
-- Martin (2)
-- Karns (4)
-- Lincoln (6)
- 
-## Tuesday, July 22 - 6-8pm
-- Moeller (3)
-- Southwood (3)
-- South Side Heritage (8)
-- Southeast Lions (8)
- 
-## Saturday, July 26 - 9-11am
-- Deshler (5)
-- Fairwood (5)
-- Smith Road (7)
-- Millbrook (5)
+<a href="/parks/2025-inventory/" class="stuff__button button"><i class="fas fa-tree fa-fw button__icon button__icon--left"></i> 2025 South Side Parks Inventory</a>
 
 # South Side Parks
 <div class="map-container">
