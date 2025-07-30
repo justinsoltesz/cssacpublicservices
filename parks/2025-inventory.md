@@ -108,7 +108,8 @@ Over the course of July, the Public Services Committee met at each of the 12 par
 ## Requests
 - Add more playground equipment for small children (e.g. teeter-totter, additional toddler swings)
     - <small>Fire truck structure was popular with small children and was never replaced</small>
-- Install picnic tables under tree coverage
+- Additional picnic tables under tree coverage
+- Small shelter with electricity is desired
 
 # Southeast Lions Park
 ## Maintenance needs
@@ -117,7 +118,7 @@ Over the course of July, the Public Services Committee met at each of the 12 par
 - Address lighting issues (lights under the shelter turn on at a set time, but light poles in the park do not)
 
 ## Requests
-- Install tall fencing along the Hinkle Avenue and 6th Street sides of the basketball court to prevent basketballs from going into the street
+- Add tall fencing along the Hinkle Avenue and 6th Street sides of the basketball court to prevent basketballs from going into the street
 
 ## Other notes
 - Wood utility poles have been laying along the south edge of the park for a few months
