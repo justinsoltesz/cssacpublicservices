@@ -30,7 +30,7 @@ Over the course of July, the Public Services Committee met at each of the 12 par
 - Repair damaged fence near entrance of park along Fairwood Avenue
 
 ## Requests
-- Crosswalk with flashing lights on Fairwood Avenue at entrance to park (likely need to coordniate with Department of Public Service)
+- Crosswalk with flashing lights on Fairwood Avenue at entrance to park (likely need to coordinate with Department of Public Service)
 - Additional portable toilets (at least one near each shelter house)
 - Additional dog poop bag stations (there is only one near the entrance of the park)
 
