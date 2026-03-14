@@ -1,7 +1,7 @@
 ---
 layout: southside-page
 title: Trash and Recycling
-go-back: "/southside/"
+go-back: ""
 ---
 
 

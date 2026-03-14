@@ -1,7 +1,7 @@
 ---
 layout: southside-page
 title: Columbia Gas
-go-back: "/southside/"
+go-back: ""
 ---
 
 Columbia Gas will begin a gas line replacement project in the Merion Village/German Village area this April. This will impact about 250 residents.

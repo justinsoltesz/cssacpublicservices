@@ -1,7 +1,7 @@
 ---
 layout: southside-page
 title: Parsons Avenue
-go-back: "/southside/"
+go-back: ""
 ---
 
 # Crosswalks
@@ -16,7 +16,7 @@ The City of Columbus Department of Public Service is moving forward with the des
 
 At the intersection of Parsons Avenue and Harland Drive within the Far South Area Commission boundaries, a [Rectangular Rapid-Flashing Beacon (RRFB)](https://highways.dot.gov/safety/proven-safety-countermeasures/rectangular-rapid-flashing-beacons-rrfb) with high-visibility crosswalk markings is planned.
 
-Funding and potential timeline for construction is still to be determined.
+Construction of these crosswalk enhancements is expected in 2026 and 2027.
 
 ## Map of existing and planned crosswalks
 <div class="map-container">

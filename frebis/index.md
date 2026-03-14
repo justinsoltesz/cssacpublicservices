@@ -1,12 +1,14 @@
 ---
 layout: southside-page
 title: Frebis Avenue
-go-back: "/southside/"
+go-back: ""
 ---
 
 The City of Columbus studied the Frebis Avenue corridor from Bruck Street to Alum Creek Drive in 2022. The study evaluated the feasiblity of reconfiguring the existing roadway to include bike facilities, improving safety for people walking and biking and providing connections between  and conducted a safety analysis.
 
 The Columbus South Side Area Commission extends our full support in moving this project to the next phase and we hope funding for construction can be committed in the near term to improve the safety of this roadway for people walking and biking and reduce vehicle speeds along the corridor. This is a potential major east-west bike corridor.
+
+**The first phase of the project will include protected bike lanes on Frebis Avenue between Lockbourne Road and Alum Creek Drive, with construction expected in 2026.** The protected bike lanes will feature concrete curbing between the vehicle lanes and the bike lanes.
 
 *The information on this page is taken from the public meeting and preferred alternative slides that were presented to the Columbus South Side Area Commission in 2022. The page on the City's website for this project is currently unavailable.*
 
@@ -34,12 +36,12 @@ The Columbus South Side Area Commission extends our full support in moving this 
 
 ## Buffered Bike Lanes: Lockbourne Road to Burstock Road
 - Remove existing on-street parking (currently permitted on both sides of street)
-- Add buffered bike lanes *(vertical separation to be determined)*
+- Add buffered bike lanes *(final design includes concrete curbing with reflective flexible posts for visibility in the buffer)*
 
 <a href="https://files.soltesz.xyz/southside/frebis/PreferredAlternative04.png"><img src="https://files.soltesz.xyz/southside/frebis/PreferredAlternative04.png" alt="" class="page-figure__image"></a>
 
 ## Road Diet and Buffered Bike Lanes: Burstock Road to Alum Creek Drive
 - Reconfigure roadway from two travel lanes in each direction to one travel lane in each direction with a center turn lane
-- Add buffered bike lanes *(vertical separation to be determined)*
+- Add buffered bike lanes *(final design includes concrete curbing with reflective flexible posts for visibility in the buffer)*
 
 <a href="https://files.soltesz.xyz/southside/frebis/PreferredAlternative05.png"><img src="https://files.soltesz.xyz/southside/frebis/PreferredAlternative05.png" alt="" class="page-figure__image"></a>

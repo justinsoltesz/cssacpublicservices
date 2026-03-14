@@ -1,7 +1,7 @@
 ---
 layout: southside-page
 title: South High Street
-go-back: "/southside/"
+go-back: ""
 ---
 <div class="jump-to">
     <span class="jump-to__prompt">Jump to:</span>
@@ -14,9 +14,11 @@ go-back: "/southside/"
 # High Street has a problem
 Today, High Street on the South Side moves cars quickly &mdash; perhaps too quickly. Its design allows drivers to reach dangerously high speeds while failing to safely serve people walking, biking, and taking transit. The limited marked crosswalks and lack of dedicated space for people biking makes it difficult and unsafe for people to walk and bike along the street.
 
-South High Street is also unsafe for people driving. The current configuration, which has no dedicated turn lanes, results in drivers weaving back and forth between lanes to go around other vehicles waiting to turn. There are frequent crashes resulting from high speeds, including rear-end crashes while drivers wait to turn left, crashes with parked cars, and crashes involving drivers attempting to turn onto South High Street from the many neighborhood streets that intersect with South High Street.
+South High Street is also unsafe for people driving. The current configuration, which has no dedicated turn lanes, results in drivers weaving back and forth between lanes to go around other vehicles waiting to turn. There are frequent crashes resulting from high speeds, including rear-end crashes while drivers wait to turn left, crashes with parked cars, and crashes involving drivers attempting to turn onto South High Street from the many neighborhood streets that intersect with South High Street. Several serious injury and fatal crashes have also occurred on this section of South High Street.
 
 Put simply, South High Street isn't working well for anyone.
+
+**South High Street was identified as part of the Bike Plus near-term network, with protected bike lanes expected to be installed by 2030.** However, the City of Columbus has not yet begun planning or design for this project based on the <a href="https://www.columbus.gov/files/sharedassets/city/v/1/public-service/bike-plus/bike-plus-annual-report-2025.pdf">2025 Bike Plus annual report</a>.
 
 <a href="https://files.soltesz.xyz/southside/high/south-high-today.png"><img src="https://files.soltesz.xyz/southside/high/south-high-today.png" alt="Cross section showing what South High Street looks like today: Two lanes in each direction, with a 20-foot wide outside lane allowing parking and a 10-foot wide inside lane. A shared lane marking (sharrow) is shown in the outside lane." class="page-figure__image"></a>
 
@@ -38,7 +40,7 @@ Here is a sampling of just a few recent crashes on South High Street.
 # What can be done?
 There’s ample space to reconfigure the street (commonly referred to as a "[road diet](https://highways.dot.gov/safety/other/road-diets/road-diet-desk-reference/1-road-diet-overview)") to provide a dedicated left turn lane, dedicated space for people biking, and keep on-street parking. Reducing to one through lane in each direction would eliminate the dangerous weaving between lanes that occurs today and allow the addition of a center left turn lane to give space for drivers to wait to turn left. This would also allow for the addition of refuge islands for people crossing the street at certain crosswalks. A reconfiguration would slow down traffic and make the street safer for *everyone* &mdash; people driving, walking, rolling, biking, and scootering.
 
-Road diets of streets like South High Street are recognized by the Federal Highway Administration (FHWA) as a [Proven Safety Countermeasure](https://highways.dot.gov/safety/proven-safety-countermeasures), meaning it has been shown to reduce traffic crashes, especially fatalities and serious injuries.
+Reconfigurations of streets like South High Street are recognized by the Federal Highway Administration (FHWA) as a [Proven Safety Countermeasure](https://highways.dot.gov/safety/proven-safety-countermeasures), meaning it has been shown to reduce traffic crashes, especially fatalities and serious injuries.
 
 ## About that four-lane section...
 Here's what [FHWA has to say about four-lane sections](https://highways.dot.gov/safety/other/road-diets/road-diet-informational-guide/2-why-consider-road-diet):

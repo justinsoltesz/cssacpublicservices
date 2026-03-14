@@ -1,7 +1,7 @@
 ---
 layout: southside-page
 title: 2024 CSSAC Capital Budget Requests
-go-back: "/southside/"
+go-back: ""
 ---
 
 Below are the Capital Budget Requests submitted to the City of Columbus by the Columbus South Side Area Commission for 2024. Capital projects relate to physical assets such as roads, sewers and water infrastructure, parkland, fire stations, and much more. While these are the Area Commission's priorities, submission of these priorities does not guarantee the projects will receive funding.

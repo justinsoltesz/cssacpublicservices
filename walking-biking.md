@@ -1,7 +1,7 @@
 ---
 layout: southside-page
 title: Walking and Biking
-go-back: "/southside/"
+go-back: ""
 ---
 
 # Sidewalk Gaps
@@ -14,7 +14,7 @@ Progress has been made in recent years on closing sidewalk gaps on the South Sid
 # Bike Network
 Columbus City Council has officially adopted **[Bike Plus](https://storymaps.arcgis.com/stories/fa0d7f19855a46f5a67ad741da665439?header=false&cover=false)**, a plan to create a safe, connected, and comfortable network for people to bike, scooter, skate, and roll in the city. The plan will expand upon and improve our existing bikeways to create a complete network of safe and comfortable bikeways on the South Side.
 
-<a href="https://files.soltesz.xyz/southside/Bike%20Plus%20Vision%20Network%20Mega Map.pdf" class="stuff__button button"><i class="fas fa-map fa-fw button__icon button__icon--left"></i> Bike Plus Vision Network Map</a>
+<a href="https://experience.arcgis.com/experience/648adcf8a293489b9ec3f5017e7c9d2b/page/Bike-Plus" class="stuff__button button"><i class="fas fa-map fa-fw button__icon button__icon--left"></i> Bike Plus vision network map</a> <a href="https://www.columbus.gov/files/sharedassets/city/v/1/public-service/bike-plus/bike-plus-annual-report-2025.pdf" class="stuff__button button"><i class="fas fa-file-alt fa-fw button__icon button__icon--left"></i> Bike Plus 2025 annual report</a>
 
 <a href="https://files.soltesz.xyz/southside/Bike%20Plus%20Vision%20Network%20Mega Map.pdf"><img src="https://files.soltesz.xyz/southside/southsidebikeways.png" alt="Map of existing and recommended bikeways on the South Side of Columbus" class="page-figure__image"></a>
 
@@ -45,6 +45,8 @@ Within the South Side, the plan recommends:
 ## Near-Term Connections
 The Bike Plus plan identified **[South High Street](/high)** and **[Frebis Avenue](/frebis)** as "near-term connections." These projects will
 be prioritized for further evaluation and implementation by 2030.
+
+On Frebis Avenue, protected bike lanes are expected to be installed between Lockbourne Road and Alum Creek Drive in 2026.
 
 <!--# Crosswalk Inventory
 <div class="map-container">

@@ -1,7 +1,7 @@
 ---
 layout: southside-wide
 title: South High Street speed data
-go-back: "/southside/high/"
+go-back: "high/"
 ---
 
 Speed count data was collected by ODOT at a location south of Greenlawn Ave on July 7, 2022
