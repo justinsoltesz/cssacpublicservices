@@ -117,6 +117,13 @@
             margin: auto auto;
             display: block;
 
+            &--reduced-width {
+
+                @include bp-medium {
+                    width: 75%;
+                }
+            }
+
             &--full-width {
                 width: 100%;
             }

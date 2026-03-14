@@ -26,7 +26,9 @@ Shelter house is planned for construction in the coming years, with design to be
 This will include lighting the park drive and the walking loop at the rear of the park. Construction was expected to occur in 2025 however unexpected permitting delays pushed construction to this year (2026).
 
 ### Karns Park
-Replacement and expansion of the playground will occur this year (2026); project was under contract and equipment had already been ordered as of November 2025.
+Replacement and expansion of the playground will occur this year (2026); project was under contract and equipment had already been ordered as of November 2025. A rendering of the planned playground is below.
+
+<a href="https://files.soltesz.xyz/southside/parks/karns-playground.png"><img src="https://files.soltesz.xyz/southside/parks/karns-playground.png" alt="A rendering of the planned playground replacement and expansion at Karns Park." class="page-figure__image page-figure__image--reduced-width"></a>
 
 ### Lincoln Park
 Improvements include the addition of new walking path around the eastern greenspace, lighting around entire walking path, addition of new hard surface futsal/multipurpose court behind community center, and drainage improvements. This project is currently in design, with design expected to be completed around August of 2025, with construction to follow with an expected completion date of Fall 2026.
