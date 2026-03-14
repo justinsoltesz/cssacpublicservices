@@ -1,0 +1,16 @@
+---
+layout: southside-page
+title: Meeting Notes
+go-back: ""
+---
+{% for meeting in site.meetings %}
+  {% assign currentdate = meeting.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h2 class="meetings-year" id="y{{ meeting.date | date: "%Y" }}">{{ currentdate }}</h2>
+    <ul class="meetings-list">
+    {% assign date = currentdate %}
+  {% endif %}
+    <li class="meetings-list__item"><a href="{{ meeting.url }}" class="meetings-list__link">{{ meeting.date | date: "%B" }}</a></li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}

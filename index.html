@@ -135,7 +135,6 @@ title: Columbus South Side Area Commission - Public Services Committee
                 <p class="stuff__text">LinkUS is Central Ohio's comprehensive transportation and growth initiative. It's where safe sidewalks, fast and reliable public transit, protected bike lanes and expanded trails meet.</p>
                 <div class="stuff__link"><a href="https://linkuscolumbus.com" class="stuff__button button"><i class="fas fa-bus fa-fw button__icon button__icon--left"></i> LinkUS Columbus website</a></div>
             </div>
-
             <div class="stuff">
                 <h2 class="stuff__title">Columbus Bike Plus Plan</h2>
                 <p class="stuff__text">Bike Plus is a plan to create a safe, connected, and comfortable network for people to bike, scooter, skate, and roll in the city, through transportation improvements like protected bike lanes, trails, and crosswalks.</p>
@@ -150,6 +149,23 @@ title: Columbus South Side Area Commission - Public Services Committee
                     <a href="/trash-recycling/" class="button stuff__button"><i class="fas fa-trash fa-fw button__icon button__icon--left"></i> More information</a>
                 </div>
             </div>
+        </div>
+    </section>
+    <section class="item item--stuff" id="meeting-notes">
+        <h1 class="item__title">Meeting Notes</h1>
+        <div class="stuff-container">
+            {% for meeting in site.meetings %}
+                {% assign currentdate = meeting.date | date: "%Y" %}
+                {% if currentdate != date %}
+                    {% unless forloop.first %}</ul></div>{% endunless %}
+                    <div class="stuff">
+                        <h2 class="stuff__title">{{ currentdate }}</h2>
+                        <ul class="meetings-list">
+                    {% assign date = currentdate %}
+                {% endif %}
+                    <li class="meetings-list__item"><a href="{{ meeting.url }}" class="meetings-list__link">{{ meeting.date | date: "%B" }}</a></li>
+                {% if forloop.last %}</ul></div>{% endif %}
+            {% endfor %}
         </div>
     </section>
 </article>
