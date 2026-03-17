@@ -4,7 +4,7 @@ title: 2025 South Side Parks Inventory
 go-back: "parks-trees/"
 ---
 
-Over the course of July, the Public Services Committee met at each of the 12 parks on the South Side to identify maintenance needs and discuss potential improvements to request. The following is the summary of our findings and requests, as well as notes from our meeting with Recreation and Parks staff in November 2025.
+Over the course of July 2025, the Public Services Committee met at each of the 12 parks on the South Side to identify maintenance needs and discuss potential improvements to request. The following is the summary of our findings and requests, as well as notes from our meeting with Recreation and Parks staff in November 2025.
 
 <a href="https://files.soltesz.xyz/southside/parks/2025-11-12%20CRPD%20Presentation%20South%20Side.pdf" class="stuff__button button"><i class="fas fa-presentation fa-fw button__icon button__icon--left"></i> Slides from meeting with Recreation and Parks</a>
 
