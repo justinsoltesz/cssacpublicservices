@@ -7,9 +7,9 @@ go-back: ""
 # Sidewalk Gaps
 Progress has been made in recent years on closing sidewalk gaps on the South Side, with new sidewalks constructed along Ann Street and Deshler Avenue. However, there are still many streets with missing sidewalks, especially in the neighborhoods east of Parsons Avenue. The map linked below is an inventory of sidewalks throughout Central Ohio, including on the South Side.
 
-<a href="https://public-morpc.hub.arcgis.com/items/bd68fafaaf574d8a9ebc65e86938fa41" class="stuff__button button"><i class="fas fa-map fa-fw button__icon button__icon--left"></i> Map of Central Ohio Sidewalks</a>
+<a href="https://public-morpc.hub.arcgis.com/apps/bd68fafaaf574d8a9ebc65e86938fa41/explore" class="stuff__button button"><i class="fas fa-map fa-fw button__icon button__icon--left"></i> Map of Central Ohio Sidewalks</a>
 
-<a href="https://public-morpc.hub.arcgis.com/items/bd68fafaaf574d8a9ebc65e86938fa41"><img src="https://files.soltesz.xyz/southside/southsidesidewalks.png" alt="Map of sidewalks and sidewalk gaps on the South Side of Columbus" class="page-figure__image"></a>
+<a href="https://public-morpc.hub.arcgis.com/apps/bd68fafaaf574d8a9ebc65e86938fa41/explore"><img src="https://files.soltesz.xyz/southside/southsidesidewalks.png" alt="Map of sidewalks and sidewalk gaps on the South Side of Columbus" class="page-figure__image"></a>
 
 # Bike Network
 Columbus City Council has officially adopted **[Bike Plus](https://storymaps.arcgis.com/stories/fa0d7f19855a46f5a67ad741da665439?header=false&cover=false)**, a plan to create a safe, connected, and comfortable network for people to bike, scooter, skate, and roll in the city. The plan will expand upon and improve our existing bikeways to create a complete network of safe and comfortable bikeways on the South Side.
